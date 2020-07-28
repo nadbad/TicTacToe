@@ -1,2 +1,2 @@
 # TicTacToe
-Simple tictactoe created using Python.
+Simple tictactoe game created using Python.
